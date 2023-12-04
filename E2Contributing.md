@@ -58,3 +58,4 @@ Git Extensions clonarà el repositori des de la ubicació indicada a la teva mà
 Un cop finalitzat el procés, hauries de veure el teu repositori clonat a la interfície de Git Extensions.
 
 ![Alt text](image.png)
+![Alt text](image-1.png)
